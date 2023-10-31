@@ -1,0 +1,9 @@
+package androidx.lifecycle;
+
+public interface LifecycleObserver {}
+
+
+/* Location:              C:\Users\admin\Desktop\Test\dex-tools-v2.4\classes-dex2jar.jar!\androidx\lifecycle\LifecycleObserver.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       1.1.3
+ */
