@@ -1,4 +1,4 @@
-# Raga-Origin-Finder
+# Music-based-Intelligent-Therapy
 
 Source code for the android given.
 
